@@ -1,0 +1,30 @@
+D:\IMP ZIP\Beder.App-master\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+D:\IMP ZIP\Beder.App-master\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+D:\IMP ZIP\Beder.App-master\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+D:\IMP ZIP\Beder.App-master\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+D:\IMP ZIP\Beder.App-master\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+D:\IMP ZIP\Beder.App-master\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\IMP ZIP\Beder.App-master\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\IMP ZIP\Beder.App-master\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\IMP ZIP\Beder.App-master\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+D:\IMP ZIP\Beder.App-master\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\IMP ZIP\Beder.App-master\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+D:\IMP ZIP\Beder.App-master\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+D:\IMP ZIP\Beder.App-master\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+D:\IMP ZIP\Beder.App-master\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+D:\IMP ZIP\Beder.App-master\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+D:\Hosted\ConsoleAppApiCoreMVC\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
