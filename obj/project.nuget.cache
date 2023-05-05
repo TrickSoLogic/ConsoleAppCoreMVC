@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jqmLHBLUHc9RYRzJNslNjeJ+RO19AuUv9vBCfVSIqwki0b+KcUIJ7AbliRpCxao2uzDATHn+Isc2/YXzk9fIlA==",
+  "dgSpecHash": "ZSenUyFFskTaKBgwW7XuoCRMNMHzQ7ZHq5OTAtBWaFDhjhxgrM/vUCXhDfqqvqm2zb8wKjMJzWgaLbXldMI4VA==",
   "success": true,
-  "projectFilePath": "D:\\Hosted\\ConsoleAppApiCoreMVC\\ConsoleApp\\ConsoleAppCoreMVC.csproj",
+  "projectFilePath": "D:\\Hosted\\ConsoleAppApiCoreMVC\\ConsoleAppCoreMVC\\ConsoleAppCoreMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
